@@ -1,4 +1,4 @@
-This presentation was built using Lambda Pad to generate a
+This presentation was built using [Lambda Pad](lambdapad.io) to generate a
 [reveal.js](http://lab.hakim.se/reveal-js/#/) based presentation. You can view
 the generated presentation [here](http://www.chicagoerlang.com/fp).
 
