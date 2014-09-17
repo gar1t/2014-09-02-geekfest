@@ -6,7 +6,7 @@ There are three files of interest:
 [index.erl](index.erl)
 : The Lambda Pad index module, which specifies how the site should be generated
 
-[slides.md](slides.md}
+[slides.md](slides.md)
 : The slide content as a Markdown file
 
 [templates/index.html](templates/index.html)
